@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Multimedia Test</string>
+    <string name="play">AUDIO PLAY</string>
+    <string name="pause">AUDIO PAUSE</string>
+    <string name="video_play">VIDEO PLAY</string>
+    <string name="video_pause">VIDEO PAUSE</string>
+    <string name="stop">AUDIO STOP</string>
+</resources>
